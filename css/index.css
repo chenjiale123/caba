@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .top{
+    width: 478px;
+  
+    height: 340px;
+    margin:  0 auto;
+  }
+  .topone{
+    width: 90%;
+    height: 50px;
+    /* background: #000; */
+    margin: 0 auto;
+  }
+  .topone> li{
+    float: left;
+    margin-left: 60px;
+  }
+  .topone> li a{
+    color: #000;
+  }
+  .top img{
+    margin-top: 50px;
+    margin-left: 70px;
+   
+  }
+  .toptwo{
+    width:100% ;
+    margin-top: 50px;
+    height: 50px;
+  }
+  .toptwo> li a{
+    color: #000;
+  }
+  .toptwo li{
+      float: left;
+    margin-left: 40px;
+  }
+  .top button{
+    width: 326px;
+    height: 46px;
+    background: #000;
+   margin-left: 80px;
+   color: #fff;
+  }
+  .contain{
+      width: 1166px;
+      height: 2445px;
+      margin: 0 auto;
+      margin-top: 100px;
+  }
+  .contain >.left{
+      width: 753px;
+  
+      height: 100%;
+      float: left;
+  }
+  .contain >.left >button{
+      width: 100%;
+      height: 47px;
+      background: #000;
+      color: #fff;
+      border: 1px solid #000;
+  }
+  .contain >.left img{
+      width: 100%;
+      height: 638px;
+  }
+  .contain >.left p{
+      font-size: 14px;
+      text-align: center;
+  }
+  .contain >.left form{
+      margin-top: 50px;
+      width: 100%;
+      height: 387px;
+  }
+  .contain >.left form input{
+      width: 370px;
+      height: 50px;
+      /* margin-left: 10px; */
+     
+  }
+  .contain >.left form textarea{
+      margin-top: 20px;
+      width: 100%;
+      height: 295px;
+  }
+  .contain> .right{
+  width: 280px;
+  height: 2500px;
+  float: right;
+  }
+  .contain> .right> button{
+      width: 100%;
+      height: 47px;
+      background: #000;
+      color: #fff;
+      border:1px solid #000;
+  }
+  .contain> .right>img{
+      width: 100%;
+      height: 195px;
+  }
+  .contain> .right>p{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  }
+  .icon{
+      width: 100%;
+      height: 136px;
+      background: #fff;
+  }
+  .icon img{
+      width: 35px;
+      height: 35px;
+      margin-left: 15px;
+      margin-top: 40px;
+  }
+  .right .img{
+      width: 100%;
+      height: 280px;
+      margin-top: 30px;
+  }
+  .right .img li{
+      float: left;
+      margin-left: 3px;
+  }
+  .right .write{
+      width: 100%;
+      height: 280px;
+  }
+  .right .write li{
+      margin-top: 20px;
+      height: 50px;
+  }
+  .right .write p{
+      font-size: 14px;
+  
+  }
+  .right .write span{
+      font-size: 13px;
+      color: rgb(95, 78, 248);
+  }
+  .right .list{
+      width: 100%;
+      height: 490px;
+      box-shadow: 0px 1px #eee;
+   
+  
+  }
+  .right .list li{
+     position: relative;
+     width: 100%;
+     height: 126px;
+  }
+  .right .list img{
+     
+      position: absolute;
+      left: 10px;
+      top: 30px;
+  
+  }
+  .right .list p{
+     position: absolute;
+      width: 160px;
+      left: 120px;
+      top: 30px;
+     
+  }
+  .right .list span{
+      position: absolute;
+      left: 120px;
+      top: 80px;
+  }
+  .right .icons button{
+      display: inline-block;
+      width: 50px;
+      height: 30px;
+      border-radius: 10px;
+      background: rgb(60, 68, 85);
+      color: #fff;
+      border: 1px solid  rgb(60, 68, 85);
+      line-height: 30px;
+      font-size: 13px;
+    margin-top: 20px;
+      text-align: center;
+     
+  }
+  .foot{
+    width: 100%;
+    height: 180px;
+    margin-top: 150px;
+    position: relative;
+    overflow: hidden;
+  }
+  .foot ul{
+    position: absolute;
+    /* overflow: hidden; */
+    top: 0;
+    left: 0;
+
+  }
+  .foot ul li{
+    width: 16%;
+    height: 100%;
+    float: left;
+   
+  }
+  .foot ul li img{
+    width: 100%;
+    height: 200px;
+  }

@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.top ul{
+    width: 400px;
+    height: 30px;
+    margin: 0 auto;
+}
+.top li{
+    float: left;
+    margin-left: 30px;
+}
+.top li a{
+    color: #000;
+}
+.top img{
+    width: 100%;
+    height: 230px;
+}
+.lead{
+    width: 1166px;
+    height: 600px;
+    background: url(../images/9.png)no-repeat 100% 100%;
+padding-top: 153px;
+box-sizing: border-box;
+margin: 0 auto;
+}
+.lead h1{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+
+
+}
+.lead h3{
+    font-size: 48px;
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+}
+.lead span{
+    display: block;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+}
+.main{
+    padding-top: 100px;
+    box-sizing: border-box;
+    width: 1166px;
+    height: 388px;
+    margin: 0 auto;
+}
+.main h2{
+    font-size: 18px;
+    color: #000;
+    text-align: center;
+}
+.main ul{
+    width: 100%;
+    height: 238px;
+}
+.main ul li{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.contain{
+    width: 1166px;
+    height: 3445px;
+    margin: 0 auto;
+}
+.contain >.left{
+    width: 753px;
+
+    height: 100%;
+    float: left;
+}
+.contain> .left .content{
+    width: 753px;
+    height: 1030px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    }
+.contain> .left .content h3{
+    font-size: 20px;
+    text-align: center;
+}
+.contain> .left .content h1{
+    font-size: 33px;
+    text-align: center;
+    margin-top: 20;
+    margin-top: 15px;
+}
+.contain> .left .content span{
+display: block;
+font-size: 16px;
+text-align: center;
+margin-top: 15px;
+margin-bottom: 20px;
+
+}
+.contain> .left .content p{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.contain> .left .content .a{
+    display:inline-block;
+    width: 243px;
+    height: 43px;
+    background: url('../images/Rectangle\ 2.png') ;
+    background-size: contain;
+    margin-top: 25px;
+
+}
+.contain> .left .content .leftin{
+    width: 300px;
+    height: 43px;
+    float: right;
+    margin-top: 20px;
+    /* padding-top: 20px; */
+}
+.contain> .left .content .leftin span{
+    font-size: 14px;
+    float: left;
+    /* vertical-align: middle; */
+}
+.contain> .left .content .leftin img{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    vertical-align: middle;
+
+   
+    
+}
+.contain .ul{
+    width: 780px;
+    height: 1220px;
+    margin-top:60px;
+}
+.contain .ul li{
+    margin-top: 90px;
+    width: 380px;
+    height: 50%;
+    float: left;
+    text-align: center;
+    margin-right: 10px;
+}
+.contain .ul li small{
+    font-size: 20px;
+}
+.contain .ul li h2{
+    font-size: 23px;
+    margin-top: 15px;
+
+}
+.contain .ul li p{
+    font-size: 16px;
+    margin-top: 15px;
+
+}
+.contain .ul li .nav{
+    width: 100%;
+    margin-top: 40px;
+}
+.contain .ul li .nav .left{
+    float: left;
+}
+.contain .ul li .nav .left p{
+    font-size: 14px;
+    color: rgb(236, 127, 127);
+}
+.contain .ul li .nav .right{
+    float: right;
+}
+.contain .ul li .nav .right p{
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+}
+.contain> .right{
+width: 280px;
+height: 2894px;
+float: right;
+}
+.contain> .right button{
+    width: 100%;
+    height: 47px;
+    background: #000;
+    color: #fff;
+    border:1px solid #000;
+}
+.contain> .right>img{
+    width: 100%;
+    height: 195px;
+}
+.contain> .right>p{
+text-align: center;
+margin-top: 20px;
+font-size: 14px;
+}
+.icon{
+    width: 100%;
+    height: 136px;
+    background: #fff;
+}
+.icon img{
+    width: 35px;
+    height: 35px;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+.right .img{
+    width: 100%;
+    height: 280px;
+    margin-top: 30px;
+}
+.right .img li{
+    float: left;
+    margin-left: 3px;
+}
+.right .write{
+    width: 100%;
+    height: 280px;
+}
+.right .write li{
+    margin-top: 20px;
+    height: 50px;
+}
+.right .write p{
+    font-size: 14px;
+
+}
+.right .write span{
+    font-size: 13px;
+    color: rgb(95, 78, 248);
+}
+.right .list{
+    width: 100%;
+    height: 490px;
+    box-shadow: 0px 1px #eee;
+ 
+
+}
+.right .list li{
+   position: relative;
+   width: 100%;
+   height: 126px;
+}
+.right .list img{
+   
+    position: absolute;
+    left: 10px;
+    top: 30px;
+
+}
+.right .list p{
+   position: absolute;
+    width: 160px;
+    left: 120px;
+    top: 30px;
+   
+}
+.right .list span{
+    position: absolute;
+    left: 120px;
+    top: 80px;
+}
+.right .icons button{
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    background: rgb(60, 68, 85);
+    color: #fff;
+    border: 1px solid  rgb(60, 68, 85);
+    line-height: 30px;
+    font-size: 13px;
+  margin-top: 20px;
+    text-align: center;
+   
+}
+.foot{
+    width: 100%;
+    height: 180px;
+    margin-top: 150px;
+    position: relative;
+    overflow: hidden;
+  }
+  .foot ul{
+    position: absolute;
+    /* overflow: hidden; */
+    top: 0;
+    left: 0;
+
+  }
+  .foot ul li{
+    width: 16%;
+    height: 100%;
+    float: left;
+   
+  }
+  .foot ul li img{
+    width: 100%;
+    height: 200px;
+  }

@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .top{
+    width: 478px;
+  
+    height: 340px;
+    margin:  0 auto;
+  }
+  .topone{
+    width: 90%;
+    height: 50px;
+    /* background: #000; */
+    margin: 0 auto;
+  }
+  .topone> li{
+    float: left;
+    margin-left: 60px;
+  }
+  .topone> li a{
+    color: #000;
+  }
+  .top img{
+    margin-top: 50px;
+    margin-left: 70px;
+   
+  }
+  .toptwo> li a{
+    color: #000;
+  }
+  .toptwo{
+    width:100% ;
+    margin-top: 50px;
+    height: 50px;
+  }
+  .toptwo li{
+      float: left;
+    margin-left: 40px;
+  }
+  .top button{
+    width: 326px;
+    height: 46px;
+    background: #000;
+   margin-left: 80px;
+   color: #fff;
+  }
+  .contain{
+      width: 1166px;
+      height: 1690px;
+      margin-top: 50px;
+      border-bottom: 1px solid #000;
+      margin: 100px auto;
+       text-align: center;
+  }
+  .contain h3{
+      font-size: 22px;
+      text-align: center;
+  }
+  .contain h1{
+      font-size: 48px;
+      text-align: center;
+      margin-top: 30px;
+  }
+  .contain span{
+      font-size: 20px;
+      display: inline-block;
+      margin-top: 30px;
+      margin-bottom: 30px;
+     
+     
+  }
+  .contain>img{
+      width: 100%;
+      height: 769px;
+  }
+  .contain p{
+      font-size: 14px;
+    line-height: 30px;
+    margin-top: 50px;
+        color: rgb(77, 77, 77);
+        text-align: left;
+  }
+  .contain h2{
+      font-size: 22px;
+      color: rgb(77, 77, 77);
+      margin-top: 30px;
+      text-align: left;
+  }
+  .contain .conin{
+      width: 100%;
+      height: 70px;
+      margin-top: 50px;
+  }
+  .contain .conin .left{
+     float: left;
+  
+  }
+  .contain .conin .right{
+      float: right;
+  }
+  .foot{
+    width: 100%;
+    height: 180px;
+    margin-top: 150px;
+  }
+ 
+  .foot ul li{
+    width: 16.6%;
+    height: 100%;
+    float: left;
+  }
+  .foot ul li img{
+    width: 100%;
+    height: 200px;
+  }
